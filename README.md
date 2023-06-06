@@ -49,7 +49,6 @@ Our main goal was to make it easy to input meal and have a visual and statistica
 
 
 
-## Demo
 
 
 
