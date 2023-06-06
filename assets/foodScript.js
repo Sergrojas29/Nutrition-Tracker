@@ -22,7 +22,7 @@ function dayOftheWeek(input) {
   var weekArray = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
   var Weekday = document.querySelector('#MainDayofWeek')
-  console.log(input)
+  // console.log(input)
   Weekday.innerText = weekArray[input]
 
 }

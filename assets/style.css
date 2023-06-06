@@ -61,7 +61,6 @@ header {
     transform: rotate(0deg);
     transition: all 1s ease-in-out;
     
-    border-radius: 50%;
 }
 
 #logo:hover{
