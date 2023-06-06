@@ -40,10 +40,10 @@ Our main goal was to make it easy to input meal and have a visual and statistica
 
 
 <img src='./assets/readmefiles/how.png' alt='How' height='300px'>
-<img src='./assets/readmefiles/Work%20Flow.png' alt='WorkFlow' height='300px'>
+<img src='./assets/readmefiles/Work Flow.png' alt='WorkFlow' height='300px'>
 
 ## Usage
-<img src='./assets/readmefiles/Site%20Overview.png' alt='Site Overview'>
+<img src='./assets/readmefiles/Site Overview.png' alt='Site Overview'>
 <img src='./assets/readmefiles/Input Overview.png' alt='How' height='300px'>
 <img src='./assets/readmefiles/Week Overview.png' alt='How' height='300px'>
 <img src='./assets/readmefiles/Chart Overview.png' alt='How' height='300px'>
